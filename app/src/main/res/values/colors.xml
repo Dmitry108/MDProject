@@ -3,4 +3,31 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <color name="deep_purple_primary">#673AB7</color>
+    <color name="deep_purple_primary_dark">#512DA8</color>
+    <color name="deep_purple_primary_light">#D1C4E9</color>
+    <color name="deep_purple_accent">#FFC107</color>
+    <color name="deep_purple_primary_text">#212121</color>
+    <color name="deep_purple_secondary_text">#757575</color>
+    <color name="deep_purple_icons">#FFFFFF</color>
+    <color name="deep_purple_divider">#BDBDBD</color>
+
+    <color name="brown_primary">#795548</color>
+    <color name="brown_primary_dark">#5D4037</color>
+    <color name="brown_primary_light">#D7CCC8</color>
+    <color name="brown_accent">#FF5722</color>
+    <color name="brown_primary_text">#212121</color>
+    <color name="brown_secondary_text">#757575</color>
+    <color name="brown_icons">#FFFFFF</color>
+    <color name="brown_divider">#BDBDBD</color>
+
+    <color name="yellow_primary">#FFEB3B</color>
+    <color name="yellow_primary_dark">#FBC02D</color>
+    <color name="yellow_primary_light">#FFF9C4</color>
+    <color name="yellow_accent">#FF5252</color>
+    <color name="yellow_primary_text">#212121</color>
+    <color name="yellow_secondary_text">#757575</color>
+    <color name="yellow_icons">#212121</color>
+    <color name="yellow_divider">#BDBDBD</color>
 </resources>
