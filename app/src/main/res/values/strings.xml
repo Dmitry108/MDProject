@@ -13,4 +13,7 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+    <string name="name">Name</string>
+    <string name="names_rule">Not more then 10 characters</string>
+    <string name="enter">Enter</string>
 </resources>
