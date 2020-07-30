@@ -22,6 +22,9 @@ class AuthActivity : BaseActivity() {
                 else -> showError("Too match characters")
             }
         }
+        btn_close.setOnClickListener {
+            finish()
+        }
     }
 
     private fun start(){

@@ -16,4 +16,5 @@
     <string name="name">Name</string>
     <string name="names_rule">Not more then 10 characters</string>
     <string name="enter">Enter</string>
+    <string name="close">Close</string>
 </resources>
